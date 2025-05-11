@@ -19,9 +19,9 @@ The application fulfills the following functional criteria:
 ## AWS Cloud Infrastructure Requirements
 
 The system is deployed on AWS cloud services with a focus on security and scalability:
-1.  **Frontend (React/Angular/Vue/etc.):**
+1.  **Frontend (React):**
     *   Deployed on AWS Elastic Beanstalk.
-2.  **Backend (Node.js/Flask/Django/etc.):**
+2.  **Backend (Node.js):**
     *   Deployed on Amazon EC2 using a Docker container.
     *   EC2 is hosted inside a VPC with proper Security Groups and IAM roles.
 3.  **Database Layer:**
