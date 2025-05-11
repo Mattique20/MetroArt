@@ -1,5 +1,5 @@
 
-# Cloud Project 1: Full-Stack Application Deployment on AWS
+# Cloud Project: Full-Stack Application Deployment on AWS
 
 This project demonstrates the deployment of a full-stack web application on AWS, following a production-like, secure architecture. It includes a frontend, a backend API, a relational database, and file storage, all leveraging various AWS services.
 
