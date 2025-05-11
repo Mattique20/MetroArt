@@ -5,7 +5,7 @@ This project demonstrates the deployment of a full-stack web application on AWS,
 
 ## Architecture Diagram
 
-![AWS Deployment Architecture](https://raw.githubusercontent.com/Mattique20/cloud-project-1/main/Untitled%20design%20(4).png)
+![AWS Deployment Architecture](https://raw.githubusercontent.com/Mattique20/MetroArt/main/Untitled%20design%20(4).png)
 
 
 ## Project Functional Requirements
